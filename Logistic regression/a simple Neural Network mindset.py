@@ -1,3 +1,4 @@
+#From Neural Networks and Deep Learning,Andrew Ng
 import numpy as np
 
 def sigmoid(z):
